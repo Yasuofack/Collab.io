@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6d03aef3-fa09-4f4c-9fae-847ff51db357" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2BBf9HV3ZHFwWdnCuNYTX1Gil6H" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/images/footer" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Айдинлох\Desktop\Collab.io\src\images\footer" />
+      <recent name="C:\Users\Айдинлох\Desktop\Collab.io\src\images\challenge" />
+      <recent name="C:\Users\Айдинлох\Desktop\Collab.io\src\images\carousel" />
+      <recent name="C:\Users\Айдинлох\Desktop\Collab.io\src\images\tools" />
+      <recent name="C:\Users\Айдинлох\Desktop\Collab.io\src\images\video" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d03aef3-fa09-4f4c-9fae-847ff51db357" name="Default Changelist" comment="" />
+      <created>1656384246115</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656384246115</updated>
+      <workItem from="1656384248176" duration="1636000" />
+      <workItem from="1656385914866" duration="1815000" />
+      <workItem from="1656387764055" duration="1781000" />
+      <workItem from="1656389579078" duration="1182000" />
+      <workItem from="1656557182550" duration="1948000" />
+      <workItem from="1656559162735" duration="1780000" />
+      <workItem from="1656560972208" duration="2306000" />
+      <workItem from="1657377443085" duration="1757000" />
+      <workItem from="1657379243517" duration="1770000" />
+      <workItem from="1657788169130" duration="1874000" />
+      <workItem from="1657790074702" duration="1776000" />
+      <workItem from="1657791892015" duration="1694000" />
+      <workItem from="1658343686665" duration="1783000" />
+      <workItem from="1658345499518" duration="1697000" />
+      <workItem from="1658412783881" duration="1791000" />
+      <workItem from="1658414604761" duration="1781000" />
+      <workItem from="1658424863815" duration="1091000" />
+      <workItem from="1658930645552" duration="1112000" />
+      <workItem from="1658933172719" duration="1854000" />
+      <workItem from="1659023637081" duration="1788000" />
+      <workItem from="1659025555004" duration="1774000" />
+      <workItem from="1659027408647" duration="2016000" />
+      <workItem from="1659112006083" duration="791000" />
+      <workItem from="1659112928120" duration="393000" />
+      <workItem from="1659113391089" duration="421000" />
+      <workItem from="1659113832906" duration="1589000" />
+      <workItem from="1659196746583" duration="1777000" />
+      <workItem from="1659198604716" duration="1840000" />
+      <workItem from="1659200477879" duration="798000" />
+      <workItem from="1659277434147" duration="1746000" />
+      <workItem from="1659279246262" duration="1782000" />
+      <workItem from="1659281066415" duration="1778000" />
+      <workItem from="1659282883223" duration="636000" />
+      <workItem from="1659361768575" duration="522000" />
+      <workItem from="1659362375496" duration="1174000" />
+      <workItem from="1659363576755" duration="1781000" />
+      <workItem from="1659365387127" duration="1324000" />
+      <workItem from="1659371939381" duration="1776000" />
+      <workItem from="1659373759302" duration="1245000" />
+      <workItem from="1659409044337" duration="1776000" />
+      <workItem from="1659410847396" duration="837000" />
+      <workItem from="1659582025903" duration="266000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="155" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1657379866213">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="499" y="155" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.816@0.0.1536.816" timestamp="1657379866213" />
+    <state x="431" y="137" key="search.everywhere.popup" timestamp="1657792437534">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="431" y="137" key="search.everywhere.popup/0.0.1536.816@0.0.1536.816" timestamp="1657792437534" />
+  </component>
+</project>
